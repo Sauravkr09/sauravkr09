@@ -3,11 +3,7 @@
 
 <div>
 <br/>
-- 🔭 Full-stack developer with 2+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
-- 🌱 Proficient in front-end technologies like React, Angular, as well as back-end technologies like Spring Boot, Node.js, java and PHP<br/>
-- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
-- 😍 Developed some AI Apps and integrated with web and ChatGPT.<br/>
-- 😉 Deep knowledge about deep learning, Generative AI, recommendation system and reinforcement system.</br>
+-An inquisitive person with a keen interest in various fields of computer science such as C++,DSA and Web development and actively seeking to explore these further. I am a passionate learner seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.</br>
 
 </div>
 
