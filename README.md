@@ -121,7 +121,7 @@ An inquisitive person with a keen interest in various fields of computer science
 
 - 💬 Ask me about **React js, Node js**
 
-- 📫 How to reach me **Madhavsameer97@gmail.com**
+- 📫 How to reach me **souravkr9012@gmail.com**
 
 - 📄 Know about my experiences [sauravportfolio.netlify.app](sauravportfolio.netlify.app)
 
