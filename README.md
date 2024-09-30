@@ -3,7 +3,7 @@
 
 <div>
 <br/>
-An inquisitive person with a keen interest in various fields of computer science such as C++,DSA and Web development and actively seeking to explore these further. I am a passionate learner seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.</br>
+An inquisitive person with a keen interest in various fields of computer science such as Java,DSA and Web development and actively seeking to explore these further. I am a passionate learner seeking a role in a company where I can contribute my ideas and be mentored towards a successful career.</br>
 
 </div>
 
